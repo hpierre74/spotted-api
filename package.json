@@ -38,7 +38,6 @@
     "feathers-mongoose": "^6.1.2",
     "helmet": "^3.12.1",
     "mongoose": "^5.2.0",
-    "serve-favicon": "^2.5.0",
     "winston": "^3.0.0"
   },
   "devDependencies": {
